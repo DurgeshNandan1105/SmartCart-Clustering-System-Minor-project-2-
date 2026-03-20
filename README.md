@@ -1,4 +1,4 @@
-# 🛒 SmartCart Customer Clustering System  
+# 🛒 SmartCart Clustering System  
 
 🚀 End-to-End Machine Learning Project with Live Deployment  
 
