@@ -4,7 +4,8 @@
 
 🌐 Live Demo
 
-👉 Try the App Here: 🔗 https://your-app-name.streamlit.app/
+👉 Try the App Here:
+🔗 https://your-app-name.streamlit.app/
 
 Interactive web app for real-time customer segmentation and analysis.
 
@@ -118,7 +119,3 @@ Build recommendation system
 Improve UI/UX design
 
 Add real-time data integration
-
-⚠️ Final Step for You:
-
-Replace this 👇
