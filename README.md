@@ -7,7 +7,7 @@
 ## 🌐 Live Demo  
 
 👉 **Try the App Here:**<br>
-🔗 https://your-app-name.streamlit.app/  
+🔗 https://smartcart-clustering-system.streamlit.app/
 
 Interactive web app for real-time customer segmentation and analysis.
 
@@ -80,14 +80,15 @@ Instead of treating all users the same, this system enables:
 ---
 
 ## 📂 Project Structure  
+
+```
 MinorProject1/
 │── app.py
 │── smartcart.ipynb
 │── smartcart_customers.csv
 │── requirements.txt
 │── README.md
-
-
+```
 ---
 
 ## 🚀 How to Run Locally  
@@ -97,32 +98,22 @@ git clone https://github.com/your-username/your-repo-name.git
 cd MinorProject1
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ---
-
 👨‍💻 Author
 
 Durgesh Nandan
 
 ---
 
-⭐ Why This Project Stands Out
+## ⭐ Why This Project Stands Out  
 
-✔ End-to-end ML pipeline
-✔ Real-world e-commerce use case
-✔ Unsupervised learning implementation
-✔ Data-driven customer segmentation
-✔ Interactive deployed application
-✔ Clean and professional structure
+- ✔ End-to-end ML pipeline  
+- ✔ Real-world e-commerce use case  
+- ✔ Unsupervised learning implementation  
+- ✔ Data-driven customer segmentation  
+- ✔ Interactive deployed application  
+- ✔ Clean and professional structure  
 
----
 
-📌 Future Improvements
-
-Add advanced clustering (DBSCAN, Hierarchical)
-
-Build recommendation system
-
-Improve UI/UX design
-
-Add real-time data integration
